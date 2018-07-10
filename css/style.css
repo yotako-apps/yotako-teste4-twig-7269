@@ -1,0 +1,848 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #999;
+    position: relative;
+    display: flex;
+    margin-left: 6px;
+    margin-top: 3px;
+    width: 364px;
+    height: 32px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0row0 {
+    display: flex;
+    margin-left: 7px;
+    margin-top: 4px;
+    width: 354px;
+    height: 23px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0row0unsupported1 {
+    margin-left: 0;
+    width: 112px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0row0unsupported2 {
+    margin-left: 152px;
+    width: 91px;
+    height: 11px
+  }
+  .bankingwebsitecontainer0unsupported0 {
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 253px;
+    align-items: stretch;
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: flex-end
+  }
+  .style1 {
+    background-color: #eee;
+    display: flex;
+    height: 242px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0unsupported0container1row0 {
+    position: relative;
+    display: flex;
+    margin-top: 3px;
+    width: 352px;
+    height: 11px;
+    align-items: stretch;
+    align-self: center
+  }
+  .bankingwebsitecontainer0unsupported0container1row0unsupported3 {
+    margin-left: 0;
+    width: 71px;
+    flex-shrink: 0
+  }
+  .style14 {
+    color: #666;
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    position: relative;
+    margin-left: 216px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row1 {
+    display: flex;
+    margin-left: 7px;
+    margin-top: 5px;
+    width: 337px;
+    height: 14px;
+    align-items: center
+  }
+  .style2,
+  .style7 {
+    font-family: devanagarimt,serif;
+    font-size: .625em;
+    margin-left: 0;
+    height: 12px
+  }
+  .style7 {
+    text-align: right;
+    margin-left: 156px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0unsupported0container1row2 {
+    position: relative;
+    display: flex;
+    margin-top: 11px;
+    width: 351px;
+    height: 13px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    font-family: devanagarimt,serif;
+    font-size: .4375em;
+    font-weight: 700;
+    margin-left: 0;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row2unsupported4 {
+    position: relative;
+    margin-left: 3px;
+    width: 125px;
+    height: 10px;
+    flex-shrink: 0
+  }
+  .style3,
+  .style5 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .style3 {
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    text-indent: 11px;
+    background-color: #fff;
+    margin-left: 63px;
+    width: 105px
+  }
+  .style5 {
+    background-color: #2b78e4;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 5px;
+    width: 31px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style6 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    height: 8px
+  }
+  .bankingwebsitecontainer0unsupported0container1row3 {
+    display: flex;
+    margin-top: 9px;
+    width: 353px;
+    height: 13px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13 {
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 85px;
+    width: 34px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style12 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    height: 8px
+  }
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 2px;
+    width: 50px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: .5em;
+    height: 8px
+  }
+  .bankingwebsitecontainer0unsupported0container1unsupported5 {
+    margin-top: 6px;
+    width: 349px;
+    height: 151px;
+    align-self: center
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #999;
+    position: relative;
+    display: flex;
+    margin-left: 12px;
+    margin-top: 6px;
+    width: 745px;
+    height: 66px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0row0 {
+    display: flex;
+    margin-left: 14px;
+    margin-top: 8px;
+    width: 725px;
+    height: 47px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0row0unsupported1 {
+    margin-left: 0;
+    width: 229px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0row0unsupported2 {
+    margin-left: 311px;
+    width: 186px;
+    height: 23px
+  }
+  .bankingwebsitecontainer0unsupported0 {
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 518px;
+    align-items: stretch;
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: flex-end
+  }
+  .style1 {
+    background-color: #eee;
+    display: flex;
+    height: 496px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0unsupported0container1row0 {
+    position: relative;
+    display: flex;
+    margin-top: 6px;
+    width: 721px;
+    height: 23px;
+    align-items: stretch;
+    align-self: center
+  }
+  .bankingwebsitecontainer0unsupported0container1row0unsupported3 {
+    margin-left: 0;
+    width: 145px;
+    flex-shrink: 0
+  }
+  .style14 {
+    color: #666;
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    position: relative;
+    margin-left: 442px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row1 {
+    display: flex;
+    margin-left: 14px;
+    margin-top: 10px;
+    width: 690px;
+    height: 29px;
+    align-items: center
+  }
+  .style2,
+  .style7 {
+    font-family: devanagarimt,serif;
+    font-size: 1.28em;
+    margin-left: 0;
+    height: 25px
+  }
+  .style7 {
+    text-align: right;
+    margin-left: 319px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0unsupported0container1row2 {
+    position: relative;
+    display: flex;
+    margin-top: 23px;
+    width: 719px;
+    height: 27px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    font-family: devanagarimt,serif;
+    font-size: .896em;
+    font-weight: 700;
+    margin-left: 0;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row2unsupported4 {
+    position: relative;
+    margin-left: 6px;
+    width: 256px;
+    height: 20px;
+    flex-shrink: 0
+  }
+  .style3,
+  .style5 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .style3 {
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    text-indent: 23px;
+    background-color: #fff;
+    margin-left: 129px;
+    width: 215px
+  }
+  .style5 {
+    background-color: #2b78e4;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 10px;
+    width: 63px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style6 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    height: 16px
+  }
+  .bankingwebsitecontainer0unsupported0container1row3 {
+    display: flex;
+    margin-top: 18px;
+    width: 723px;
+    height: 27px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13 {
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 174px;
+    width: 70px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style12 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    height: 16px
+  }
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 4px;
+    width: 102px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.024em;
+    height: 16px
+  }
+  .bankingwebsitecontainer0unsupported0container1unsupported5 {
+    margin-top: 12px;
+    width: 715px;
+    height: 309px;
+    align-self: center
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #999;
+    position: relative;
+    display: flex;
+    margin-left: 15px;
+    margin-top: 7px;
+    width: 893px;
+    height: 79px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0row0 {
+    display: flex;
+    margin-left: 17px;
+    margin-top: 10px;
+    width: 868px;
+    height: 56px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0row0unsupported1 {
+    margin-left: 0;
+    width: 275px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0row0unsupported2 {
+    margin-left: 373px;
+    width: 223px;
+    height: 27px
+  }
+  .bankingwebsitecontainer0unsupported0 {
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 621px;
+    align-items: stretch;
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: flex-end
+  }
+  .style1 {
+    background-color: #eee;
+    display: flex;
+    height: 594px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0unsupported0container1row0 {
+    position: relative;
+    display: flex;
+    margin-top: 7px;
+    width: 864px;
+    height: 27px;
+    align-items: stretch;
+    align-self: center
+  }
+  .bankingwebsitecontainer0unsupported0container1row0unsupported3 {
+    margin-left: 0;
+    width: 174px;
+    flex-shrink: 0
+  }
+  .style14 {
+    color: #666;
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    position: relative;
+    margin-left: 530px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row1 {
+    display: flex;
+    margin-left: 17px;
+    margin-top: 12px;
+    width: 827px;
+    height: 34px;
+    align-items: center
+  }
+  .style2,
+  .style7 {
+    font-family: devanagarimt,serif;
+    font-size: 1.5333333333333332em;
+    margin-left: 0;
+    height: 29px
+  }
+  .style7 {
+    text-align: right;
+    margin-left: 383px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0unsupported0container1row2 {
+    position: relative;
+    display: flex;
+    margin-top: 27px;
+    width: 861px;
+    height: 32px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    font-family: devanagarimt,serif;
+    font-size: 1.0733333333333333em;
+    font-weight: 700;
+    margin-left: 0;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row2unsupported4 {
+    position: relative;
+    margin-left: 7px;
+    width: 307px;
+    height: 25px;
+    flex-shrink: 0
+  }
+  .style3,
+  .style5 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .style3 {
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    text-indent: 27px;
+    background-color: #fff;
+    margin-left: 155px;
+    width: 258px
+  }
+  .style5 {
+    background-color: #2b78e4;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 12px;
+    width: 76px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style6 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    height: 20px
+  }
+  .bankingwebsitecontainer0unsupported0container1row3 {
+    display: flex;
+    margin-top: 22px;
+    width: 866px;
+    height: 32px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13 {
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 209px;
+    width: 83px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style12 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    height: 20px
+  }
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 5px;
+    width: 123px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.2266666666666666em;
+    height: 20px
+  }
+  .bankingwebsitecontainer0unsupported0container1unsupported5 {
+    margin-top: 15px;
+    width: 856px;
+    height: 370px;
+    align-self: center
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #999;
+    position: relative;
+    display: flex;
+    margin-left: 19px;
+    margin-top: 10px;
+    width: 1165px;
+    height: 102px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0row0 {
+    display: flex;
+    margin-left: 22px;
+    margin-top: 13px;
+    width: 1133px;
+    height: 74px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0row0unsupported1 {
+    margin-left: 0;
+    width: 358px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0row0unsupported2 {
+    margin-left: 486px;
+    width: 291px;
+    height: 35px
+  }
+  .bankingwebsitecontainer0unsupported0 {
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 810px;
+    align-items: stretch;
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: flex-end
+  }
+  .style1 {
+    background-color: #eee;
+    display: flex;
+    height: 774px;
+    flex-direction: column
+  }
+  .bankingwebsitecontainer0unsupported0container1row0 {
+    position: relative;
+    display: flex;
+    margin-top: 10px;
+    width: 1126px;
+    height: 35px;
+    align-items: stretch;
+    align-self: center
+  }
+  .bankingwebsitecontainer0unsupported0container1row0unsupported3 {
+    margin-left: 0;
+    width: 227px;
+    flex-shrink: 0
+  }
+  .style14 {
+    color: #666;
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    position: relative;
+    margin-left: 691px;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row1 {
+    display: flex;
+    margin-left: 22px;
+    margin-top: 16px;
+    width: 1078px;
+    height: 45px;
+    align-items: center
+  }
+  .style2,
+  .style7 {
+    font-family: devanagarimt,serif;
+    font-size: 2em;
+    margin-left: 0;
+    height: 38px
+  }
+  .style7 {
+    text-align: right;
+    margin-left: 499px;
+    height: 100%
+  }
+  .bankingwebsitecontainer0unsupported0container1row2 {
+    position: relative;
+    display: flex;
+    margin-top: 35px;
+    width: 1123px;
+    height: 42px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    font-family: devanagarimt,serif;
+    font-size: 1.4000000000000001em;
+    font-weight: 700;
+    margin-left: 0;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .bankingwebsitecontainer0unsupported0container1row2unsupported4 {
+    position: relative;
+    margin-left: 10px;
+    width: 400px;
+    height: 32px;
+    flex-shrink: 0
+  }
+  .style3,
+  .style5 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    height: 100%;
+    flex-shrink: 0
+  }
+  .style3 {
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    text-indent: 35px;
+    background-color: #fff;
+    margin-left: 202px;
+    width: 336px
+  }
+  .style5 {
+    background-color: #2b78e4;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 16px;
+    width: 99px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style6 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    height: 26px
+  }
+  .bankingwebsitecontainer0unsupported0container1row3 {
+    display: flex;
+    margin-top: 29px;
+    width: 1130px;
+    height: 42px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13 {
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 272px;
+    width: 109px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style12 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    height: 26px
+  }
+  .style8 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 221px 221px 0 0 #000;
+    display: flex;
+    margin-left: 6px;
+    width: 160px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style9 {
+    text-align: center;
+    font-family: devanagarimt,serif;
+    font-size: 1.6em;
+    height: 26px
+  }
+  .bankingwebsitecontainer0unsupported0container1unsupported5 {
+    margin-top: 19px;
+    width: 1117px;
+    height: 483px;
+    align-self: center
+  }
+}
